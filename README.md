@@ -8,7 +8,7 @@ A 100-word monologue for a fantasy villain who is secretly just very tired — a
 
 ## How it works
 
-`main.ts` (Node 22, stdlib-only, no network) writes the monologue to `/output/entry.txt` — 99 words, 529 characters, deterministic across runs.
+`main.ts` (Node 22, stdlib-only, no network) writes the monologue to `/output/entry.txt` — 99 words, 530 characters, deterministic across runs.
 
 ```sh
 node main.ts
